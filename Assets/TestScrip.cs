@@ -8,6 +8,7 @@ public class TestScrip : MonoBehaviour {
 	void Start () {
 
         print("Pierwsza zmiana");
+        print("Druga zmiana");
 		
 	}
 	
