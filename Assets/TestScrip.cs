@@ -9,6 +9,7 @@ public class TestScrip : MonoBehaviour {
 
         print("Pierwsza zmiana");
         print("Druga zmiana");
+        print("Trzecia zmiana");
 		
 	}
 	
